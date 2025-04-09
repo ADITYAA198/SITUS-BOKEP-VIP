@@ -16,4 +16,7 @@ PAKAI VPN INI 👇
 
 https://play.google.com/store/apps/details?id=ch.protonvpn.android 
 
+ATUR PROTOKOL VPN JADI Stealth 
+
+
 Jangan lupa waktu 😡
